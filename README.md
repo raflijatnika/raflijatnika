@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raflijatnika
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ExpressJS
-- 💞️ I’m looking to collaborate on Vue JS
+- 💞️ I’m looking to collaborate on Vue JS or ReactJS
 - 📫 How to reach me DM on twitter @iFlyyX_
 
 <!---

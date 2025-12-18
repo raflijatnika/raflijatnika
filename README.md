@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Rafli%20Jatnika&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Bandung,%20Indonesia&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Rafli%20Jatnika&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Front%20End%20Developer%20%7C%20Bandung,%20Indonesia&descSize=18&descAlignY=55"/>
 
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Vue+%7C+Next.js+Developer;Code+%E2%80%A2+Create+%E2%80%A2+Innovate)](https://git.io/typing-svg)
@@ -27,32 +27,38 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="55%">
 
-```yaml
-name: Rafli Jatnika
-located_in: Bandung, Indonesia 🇮🇩
-current_company: Roketin
-role: Full Stack Developer
-
-fields_of_interests:
-  - Web Development
-  - Mobile Development
-  - Cloud Architecture
-  - Open Source
-
-currently_learning:
-  - Advanced TypeScript Patterns
-  - System Design
-  - Cloud Native Development
-
-hobbies:
-  - Coding
-  - Gaming
-  - Tech Exploration
+```typescript
+const rafli = {
+    name: "Rafli Jatnika",
+    location: "Bandung, Indonesia 🇮🇩",
+    company: "Roketin",
+    role: "Front End Developer",
+    
+    skills: ["React", "Vue", "Next.js", "TypeScript"],
+    
+    interests: [
+        "Building beautiful UIs",
+        "Open Source",
+        "Learning new technologies"
+    ],
+    
+    currentFocus: "Creating modern web experiences",
+    funFact: "I turn ☕ into code"
+};
 ```
 
-<br clear="both"/>
+</td>
+<td width="45%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 

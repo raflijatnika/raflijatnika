@@ -1,144 +1,116 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Rafli%20Jatnika&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Front%20End%20Developer%20%7C%20Bandung,%20Indonesia&descSize=18&descAlignY=55"/>
+<br/>
 
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Vue+%7C+Next.js+Developer;Code+%E2%80%A2+Create+%E2%80%A2+Innovate)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=40&duration=1&pause=100000&color=F5F5F7&center=true&vCenter=true&width=700&height=60&lines=Rafli+Jatnika">
+  <img alt="Rafli Jatnika" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=40&duration=1&pause=100000&color=1D1D1F&center=true&vCenter=true&width=700&height=60&lines=Rafli+Jatnika">
+</picture>
 
-<!-- Social Badges -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3500&pause=1500&color=86868B&center=true&vCenter=true&width=700&height=36&lines=Senior+Frontend+Developer.;TypeScript.+React.+Next.js.+Vue.;AI-first.+Agentic+coding+with+Claude+Code.">
+  <img alt="Senior Frontend Developer" src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3500&pause=1500&color=6E6E73&center=true&vCenter=true&width=700&height=36&lines=Senior+Frontend+Developer.;TypeScript.+React.+Next.js.+Vue.;AI-first.+Agentic+coding+with+Claude+Code.">
+</picture>
+
+<br/><br/>
+
+<a href="https://raflijatnika.com"><img src="https://img.shields.io/badge/raflijatnika.com-1D1D1F?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
+<a href="mailto:raflijatnikaa@gmail.com"><img src="https://img.shields.io/badge/Email-1D1D1F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://twitter.com/iFlyyX_"><img src="https://img.shields.io/badge/X-1D1D1F?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://instagram.com/raflijatnika__"><img src="https://img.shields.io/badge/Instagram-1D1D1F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+</div>
+
+### Hello.
+
+Senior Frontend Developer with **7+ years** building production web applications — TypeScript at the core, React, Next.js and Vue — for some of Indonesia's largest names in **Fintech & Banking**, **Telecom** and **Internet Providers**, on products used by millions.
+
+- **End-to-end ownership** — architecture, state management, SSR, design systems, testing and CI/CD.
+- **AI-first** — agentic coding with Claude Code. Every AI-written change reviewed, tested, and owned.
+- **Solo or with a team** — owning a product's frontend alone, or mentoring and aligning standards across international teams.
+
+<br/>
+
+### Experience
+
+| | Role | When |
+|:--|:--|--:|
+| **WD-Health** · New York | Full Stack Engineer — EHR & Satu Sehat integration, GraphQL | 2026 |
+| **Roketin** · Bandung | Senior Engineer — CBN products, BRU multi-module ERP | 2023 – 2026 |
+| **Emurgo Academy** · Singapore | Frontend Developer — sole FE, wireframe to deploy | 2024 |
+| **BTS.id** · Bandung | Senior Developer — BCA, Peniti Valasindo, Sales Force Automation | 2020 – 2023 |
+| **Sirius Star Avenue** · Kuwait | Frontend Developer — e-commerce, concept to launch | 2021 – 2022 |
+
+<br/>
+
+### Toolkit
+
 <p>
-  <a href="https://twitter.com/iFlyyX_"><img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://instagram.com/raflijatnika__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://github.com/raflijatnika"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,flutter,tailwind,redux&theme=dark" alt="Core"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,docker,nginx,linux,githubactions,gitlab,jenkins&theme=dark" alt="Testing & DevOps"/>
 </p>
 
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=raflijatnika&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <a href="https://github.com/raflijatnika?tab=followers">
-    <img src="https://img.shields.io/github/followers/raflijatnika?style=for-the-badge&color=blueviolet&labelColor=1a1b27" alt="Followers"/>
-  </a>
-</p>
+<sub>Also — Zustand · Pinia · React Hook Form · shadcn/ui · SSR/SSG · Core Web Vitals · Playwright · PM2 · Claude Code · Codex · Graphify</sub>
 
-</div>
+<br/><br/>
 
----
-
-## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="55%">
-
-```typescript
-const rafli = {
-    name: "Rafli Jatnika",
-    location: "Bandung, Indonesia 🇮🇩",
-    company: "Roketin",
-    role: "Front End Developer",
-    
-    skills: ["React", "Vue", "Next.js", "TypeScript"],
-    
-    interests: [
-        "Building beautiful UIs",
-        "Open Source",
-        "Learning new technologies"
-    ],
-    
-    currentFocus: "Creating modern web experiences",
-    funFact: "I turn ☕ into code"
-};
-```
-
-</td>
-<td width="45%">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Arsenal
+### Numbers
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raflijatnika/raflijatnika/output/snake-dark.svg">
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/raflijatnika/raflijatnika/output/snake.svg">
+</picture>
 
-### Styling & UI
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/><br/>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=raflijatnika&hide_border=true&background=00000000&ring=F5F5F7&fire=F5F5F7&currStreakNum=F5F5F7&sideNums=F5F5F7&currStreakLabel=86868B&sideLabels=86868B&dates=6E6E73&stroke=3A3A3C">
+  <img width="80%" alt="Streak" src="https://streak-stats.demolab.com?user=raflijatnika&hide_border=true&background=00000000&ring=1D1D1F&fire=1D1D1F&currStreakNum=1D1D1F&sideNums=1D1D1F&currStreakLabel=6E6E73&sideLabels=6E6E73&dates=86868B&stroke=D2D2D7">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=raflijatnika&bg_color=00000000&color=86868B&line=F5F5F7&point=F5F5F7&area=true&area_color=F5F5F7&hide_border=true&hide_title=true">
+  <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raflijatnika&bg_color=00000000&color=6E6E73&line=1D1D1F&point=1D1D1F&area=true&area_color=1D1D1F&hide_border=true&hide_title=true">
+</picture>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raflijatnika&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflijatnika&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=raflijatnika&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raflijatnika&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🎯 Featured Projects
+### Selected work
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raflijatnika&repo=github-repository-explorer&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/raflijatnika/github-repository-explorer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raflijatnika&repo=nextjs14-template&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/raflijatnika/nextjs14-template)
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect!
-
-<p>💬 Feel free to reach out for collaborations or just a tech chat!</p>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://github.com/roketin/react-base-project">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=roketin&repo=react-base-project&show_owner=true&hide_border=true&bg_color=1C1C1E&title_color=F5F5F7&text_color=86868B&icon_color=F5F5F7">
+    <img width="49%" alt="react-base-project" src="https://github-readme-stats.vercel.app/api/pin/?username=roketin&repo=react-base-project&show_owner=true&hide_border=true&bg_color=F5F5F7&title_color=1D1D1F&text_color=6E6E73&icon_color=1D1D1F">
+  </picture>
+</a>
+<a href="https://github.com/raflijatnika/github-repository-explorer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=raflijatnika&repo=github-repository-explorer&hide_border=true&bg_color=1C1C1E&title_color=F5F5F7&text_color=86868B&icon_color=F5F5F7">
+    <img width="49%" alt="github-repository-explorer" src="https://github-readme-stats.vercel.app/api/pin/?username=raflijatnika&repo=github-repository-explorer&hide_border=true&bg_color=F5F5F7&title_color=1D1D1F&text_color=6E6E73&icon_color=1D1D1F">
+  </picture>
+</a>
+<a href="https://github.com/raflijatnika/nextjs14-template">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=raflijatnika&repo=nextjs14-template&hide_border=true&bg_color=1C1C1E&title_color=F5F5F7&text_color=86868B&icon_color=F5F5F7">
+    <img width="49%" alt="nextjs14-template" src="https://github-readme-stats.vercel.app/api/pin/?username=raflijatnika&repo=nextjs14-template&hide_border=true&bg_color=F5F5F7&title_color=1D1D1F&text_color=6E6E73&icon_color=1D1D1F">
+  </picture>
 </a>
 
----
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+<br/>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+<div align="center">
+
+<sub>Designed in Bandung, Indonesia. &nbsp;·&nbsp; English · Bahasa Indonesia</sub>
 
 </div>
